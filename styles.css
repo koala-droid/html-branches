@@ -1,5 +1,11 @@
 * {
+    
     font-family: fantasy;
     position: relative;
     text-align: center;
 }
+
+p {
+    font-size: smaller;
+}
+
