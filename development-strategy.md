@@ -10,7 +10,7 @@ write a short description of your project:
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+[wireframe](https://github.com/HackYourFutureBelgium/incremental-development/blob/master/integrate/development-strategy-semantic-layout.md)
 
 ## 0. Set-Up
 
@@ -28,26 +28,20 @@ __full user story description__
 
 ### Repo
 
-what branch(es) did you work on?
+All branches been worked upon
 
 ### HTML
 
-what did you change in the HTML and why?
+Added tags according to the exercise
 
 ### CSS
 
-what did you change in the CSS and why?
+I added a tag style instead of .css file
 
-## 2. ...
-
-...
-
-...
+## 2. No further info
 
 ## Finishing Touches
 
-- Write final, complete README:
- - [makeareadme.com](https://www.makeareadme.com/)
- - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+Formatted with pretier.
+A button, no particular styling as a goal of exercise is rather branching, see my project - there you find more effort for styling and HTML5 semantics.
+
